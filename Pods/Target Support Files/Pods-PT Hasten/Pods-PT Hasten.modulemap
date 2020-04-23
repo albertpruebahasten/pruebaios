@@ -1,0 +1,6 @@
+framework module Pods_PT_Hasten {
+  umbrella header "Pods-PT Hasten-umbrella.h"
+
+  export *
+  module * { export * }
+}
